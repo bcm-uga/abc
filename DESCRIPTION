@@ -1,8 +1,8 @@
 Package: abc
 Type: Package
 Title: Tools for Approximate Bayesian Computation (ABC)
-Version: 2.1
-Date: 2015-05-04
+Version: 2.2
+Date: 2019-04-09
 Authors@R: c( 
     person("Csillery", "Katalin", role = "aut", email="kati.csillery@gmail.com"),
     person("Lemaire", "Louisiane", role = "aut"),
@@ -23,5 +23,4 @@ Author: Csillery Katalin [aut],
   Lemaire Louisiane [aut],
   Francois Olivier [aut],
   Blum Michael [aut, cre]
-Maintainer: Blum Michael <michael.blum@imag.fr>
-Date/Publication: 2015-05-05 11:34:14
+Maintainer: Blum Michael <michael.blum@univ-grenoble.fr>
