@@ -2,7 +2,7 @@ Package: abc
 Type: Package
 Title: Tools for Approximate Bayesian Computation (ABC)
 Version: 2.2
-Date: 2019-04-09
+Date: 2019-05-10
 Authors@R: c( 
     person("Csillery", "Katalin", role = "aut", email="kati.csillery@gmail.com"),
     person("Lemaire", "Louisiane", role = "aut"),
